@@ -2,6 +2,6 @@
 Topics:
 - Variables
 - Console Input/Output
-- String datatype
+- String Datatype
 
 Date of Completion: 09/25/2017
